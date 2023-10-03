@@ -1,5 +1,8 @@
-This is a repository forked from samrocks03
+DrumKit is such an application for the people who love music at it's very best,
 
-!Testing purpose
-of the blah blah blaaah
 
+This web app will provide you different sounds to bang your different drumsticks with the help of your keystrokes as well as mouse clicks!
+
+
+So,
+Enjoy well and bang the beats 😃💖
